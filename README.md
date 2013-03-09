@@ -15,3 +15,6 @@ Anyone can run a camp, it typically requires a venue that accomodates 30-50, dep
 WhereCamp is built on the ideas originally put forth by [FooCamp](http://wiki.oreillynet.com/foocamp06/index.cgi), except that attendance is open to anyone. It is an un-conference where the attendees drive the content of the sessions of the day, instead of having a prescribed schedule and set of content. Therefore, the event is what you make of it, and is only as fun as the people who attend. So be prepared to speak and contribute. If you're still not sure, then read up on the original FooCamp and BarCamps - these events are a radical shift from the kinds of conferences you may be used to and draw on a set of specific tools to invite and foster participation as pioneered by Allen Gunn among others.
 
 [Read about past WhereCamps](http://wherecamp.org).
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
+
