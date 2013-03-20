@@ -6,8 +6,8 @@ Anyone can run a camp, it typically requires a venue that accomodates 30-50, dep
  
 ## Planning
 
-* Read the [wiki](https://github.com/ajturner/wherecamp/wiki) for details of camps
-* Add or Resolve [tasks](https://github.com/ajturner/wherecamp/issues) each city camp
+* Read the [wiki](https://github.com/wherecamp/wherecamp/wiki) for details of camps
+* Add or Resolve [tasks](https://github.com/wherecamp/wherecamp/issues) each city camp
 * Follow [@wherecamp](http://twitter.com/wherecamp) on Twitter
 
 ## What is the event like?
